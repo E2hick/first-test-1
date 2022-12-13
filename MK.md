@@ -317,6 +317,14 @@ Markdown поддерживает упрощённый порядок автом
 
 ## Заключение
 
+<<<<<<< HEAD
 allo gde text?!
 gde text 2
 allo!!!!
+=======
+Attack enemy2
+me most win
+
+text vetka4
+commit 4
+>>>>>>> vetka4
