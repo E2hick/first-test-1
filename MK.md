@@ -319,3 +319,6 @@ Markdown поддерживает упрощённый порядок автом
 
 Attack enemy2
 me most win
+
+text vetka4
+commit 4
