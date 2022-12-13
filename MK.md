@@ -318,6 +318,7 @@ Markdown поддерживает упрощённый порядок автом
 ## Заключение
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 allo gde text?!
 gde text 2
 allo!!!!
@@ -328,3 +329,6 @@ me most win
 text vetka4
 commit 4
 >>>>>>> vetka4
+=======
+commit vetka_5
+>>>>>>> vetka5
